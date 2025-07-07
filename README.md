@@ -33,6 +33,10 @@ export default defineNuxtConfig({
 })
 ```
 
+npm run build 
+
+node .output/server/index.mjs
+
 ---
 
 ## 📦 ขั้นตอนที่ 3: สร้าง Dockerfile
